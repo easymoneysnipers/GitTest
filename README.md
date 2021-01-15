@@ -1,2 +1,3 @@
 # GitTest
-GitLearningTest
+## GitLearningTest
+###  how to learn git 
